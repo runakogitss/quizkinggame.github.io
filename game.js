@@ -150,7 +150,7 @@ setTimeout(() => {
     }
     getNewQuestion();
 
-}, 1000);
+}, 2000);
     })
 })
 
